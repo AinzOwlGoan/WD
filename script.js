@@ -164,7 +164,7 @@ const backgrounds = {
   GGB9V8A: "img/PASSPORT/Nomi/DaniNonniM.jpg",
   GGB9V8B: "img/PASSPORT/Nomi/DaniNonniP.jpg",
   GGB9V81: "img/PASSPORT/Nomi/DaniNonniP.jpg",
-  GGB9V82: "img/PASSPORT/Nomi/Giorgio.jpg",
+  GGB9V82: "img/PASSPORT/Nomi/GiorgioR.jpg",
   HJKL777: "img/PASSPORT/Nomi/Davide.jpg",
   LOP679V: "img/PASSPORT/Nomi/DenisJessica.jpg",
   KK2412L: "img/PASSPORT/Nomi/EllieNonni.jpg",
