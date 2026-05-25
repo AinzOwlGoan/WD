@@ -186,7 +186,9 @@ const backgrounds = {
   TMLR749: "img/PASSPORT/Nomi/Tullia.jpg",
   VMBIS01: "img/PASSPORT/Nomi/Vale.jpg",
   VMBIS02: "img/PASSPORT/Nomi/ValeFamily.jpg",
-  LA78VD1: "img/PASSPORT/Nomi/Laura.jpg"
+  LA78VD1: "img/PASSPORT/Nomi/Laura.jpg",
+  RVL01D0: "img/PASSPORT/Nomi/SergioRosa.jpg",
+  RVL01D1: "img/PASSPORT/Nomi/Cecilia.jpg"
 
 };
 const backgrounds_s = {
@@ -225,7 +227,9 @@ const backgrounds_s = {
   VMBIS02: "img/PASSPORT/Page_02_P.jpg",
   XKGZV91: "img/PASSPORT/Page_02_S.jpg",
   GGB9V81: "img/PASSPORT/Page_02_S.jpg",
-  LA78VD1: "img/PASSPORT/Page_02_S.jpg"
+  LA78VD1: "img/PASSPORT/Page_02_S.jpg",
+  RVL01D0: "img/PASSPORT/Page_02_S.jpg",
+  RVL01D1: "img/PASSPORT/Page_02_P.jpg"
 
 };
 
