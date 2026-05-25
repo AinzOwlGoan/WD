@@ -228,8 +228,8 @@ const backgrounds_s = {
   XKGZV91: "img/PASSPORT/Page_02_S.jpg",
   GGB9V81: "img/PASSPORT/Page_02_S.jpg",
   LA78VD1: "img/PASSPORT/Page_02_S.jpg",
-  RVL01D0: "img/PASSPORT/Page_02_S.jpg",
-  RVL01D1: "img/PASSPORT/Page_02_P.jpg"
+  RVL01D0: "img/PASSPORT/Page_02_P.jpg",
+  RVL01D1: "img/PASSPORT/Page_02_S.jpg"
 
 };
 
